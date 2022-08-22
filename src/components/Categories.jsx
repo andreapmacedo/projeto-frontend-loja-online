@@ -21,6 +21,8 @@ class Categories extends Component {
   }
 
   onClick = async ({ target }) => {
+    // console.log(target.value);
+    // console.log(target.id);
     const { id } = target;
     await this.itemCategory(id);
   }
@@ -50,7 +52,6 @@ class Categories extends Component {
                   id={ id }
                 />
               </div>
-
             ))}
           </nav>
         </div>
