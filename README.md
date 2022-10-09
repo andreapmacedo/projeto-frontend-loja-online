@@ -26,12 +26,10 @@ Tivemos que desenvolver uma aplicação React de loja online consumindo dados da
 
 * HTML5
 * CSS3
-* Sass
 * JavaScript ES6+
 * React.js
 * React Router
 * React Context API
 * React Icons (icon library)
-* GitHub Pages
 
 ## :iphone: Mobile version/Versão mobile
